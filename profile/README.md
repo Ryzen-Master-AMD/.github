@@ -6,7 +6,7 @@ Download Ryzen Master AMD to name curves on a CPU you own, with AMD Ryzen Master
 
 ## What Ryzen Master AMD Brings to Curve Control
 
-![Banner Placeholder](https://www.amd.com/content/dam/amd/en/images/software/3591900-system-monitoring-screen.jpg)
+![Banner Placeholder](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQG515fD7X27-xnHr3j_VRmte4zk8lLCZhe0Z43pFsOAQ&s=10)
 
 Ryzen Master AMD is a control client for a CPU you own, not a copy license. Built for people who need Ryzen Master AMD with AMD Ryzen Master they can still name, it focuses on AMD Master, curves, limits, and a profile you named. Instead of leaving every watt unnamed, Ryzen Master AMD keeps those files in a log you can restore.
 
